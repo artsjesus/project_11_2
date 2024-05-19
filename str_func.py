@@ -1,5 +1,5 @@
 def func(s):
-    """буковы большие"""
+    """Большие буквы"""
     return s.upper()
 
 def word_title(s):
