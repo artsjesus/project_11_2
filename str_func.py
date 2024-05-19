@@ -1,8 +1,10 @@
-def func(s):
+def func(string):
     """Большие буквы"""
-    return s.upper()
+    string = string.upper()
+    return string
 
-def word_title(s):
+def word_title(string):
     """Первая буква большая"""
-    return s.title()
+    string = string.title()
+    return string
 
